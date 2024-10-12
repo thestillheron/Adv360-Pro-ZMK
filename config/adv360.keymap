@@ -52,7 +52,7 @@
             bindings = <
  &kp EQUAL              &kp F1     &kp F2                &kp F3                 &kp F4     &kp F5            &trans                                                   &mo 3  &kp F6     &kp F7     &kp F8      &kp F9    &kp F10            &kp F11
    &kp TAB              &trans     &kp AT        &kp LEFT_BRACE        &kp RIGHT_BRACE   &kp PIPE             &none                                                   &none   &kp Y  &kp KP_N7  &kp KP_N8   &kp KP_N9    &kp SQT            &kp F12
-   &kp ESC               &kp A    &kp SQT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE            &trans  &trans  &trans                  &trans  &trans   &none   &kp H  &kp KP_N4  &kp KP_N5   &kp KP_N6   &kp PLUS  &kp DOUBLE_QUOTES
+   &kp SQT               &kp A    &kp SQT  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GRAVE            &trans  &trans  &trans                  &trans  &trans   &none   &kp H  &kp KP_N4  &kp KP_N5   &kp KP_N6   &kp PLUS  &kp DOUBLE_QUOTES
  &kp LSHFT  &mt LEFT_CONTROL Z  &kp CARET      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp TILDE                            &trans                  &trans                   &kp N  &kp KP_N1  &kp KP_N2   &kp KP_N3   &kp BSLH        &kp PERCENT
     &trans              &trans     &trans                &trans                 &trans                       &trans  &trans  &trans                  &trans  &trans  &trans             &trans     &trans  &kp KP_DOT  &kp EQUAL              &mo 2
             >;
