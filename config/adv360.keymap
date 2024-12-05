@@ -100,11 +100,11 @@
 
         layer_wasd {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans   &kp W  &trans  &trans            &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans   &kp A   &kp S   &kp D  &trans            &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+ &trans            &trans  &trans  &trans  &trans  &trans               &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &kp T           &kp TAB   &kp Q   &kp W   &kp E   &kp R               &trans                                                               &trans  &trans  &trans  &trans  &trans  &trans  &trans
+  &kp G    &kp LEFT_SHIFT   &kp A   &kp S   &kp D   &kp F                &kp F  &trans            &trans                  &trans  &trans     &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &kp LEFT_CONTROL  &trans  &trans  &trans  &trans                                         &trans                  &trans                     &trans  &trans  &trans  &trans  &trans  &trans
+ &trans            &trans  &trans  &trans  &trans                    &kp SPACE  &trans  &kp LEFT_CONTROL                  &trans  &trans  &kp ENTER          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
